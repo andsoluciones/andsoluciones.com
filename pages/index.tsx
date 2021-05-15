@@ -33,7 +33,9 @@ export default function Home({
           You can reach me at mh [at] andsoluciones.com
         </p>
         <p>
-          You can also find me at <a href="https://github.com/mhernandezve">GitHub</a>, <a href="https://www.linkedin.com/in/hernandezmiw/">Linkedin</a>, <a href="https://twitter.com/mhernandezve">Twitter</a> 
+          You can also find me at <a href="https://github.com/mhernandezve">GitHub</a>, 
+            <a href="https://www.linkedin.com/in/hernandezmiw/">Linkedin</a> and
+            <a href="https://twitter.com/mhernandezve">Twitter</a>.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
