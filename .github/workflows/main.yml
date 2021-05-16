@@ -27,7 +27,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.5
         with:
-          version: 12.x
+          version: 15.x
 
       - name: Build Site
         run: npm run build
