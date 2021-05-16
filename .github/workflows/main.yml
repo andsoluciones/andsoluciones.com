@@ -30,4 +30,6 @@ jobs:
           node-version: 15.x
 
       - name: Build Site
-        run: npm run build
+        run: | 
+          npm install
+          npm run build
