@@ -17,7 +17,7 @@ export default function Post({
   return (
     <Layout>
       <Head>
-        <script type="text/javascript" src="/public/statcounter.js"></script>
+        <script type="text/javascript" src="/statcounter.js"></script>
         <title>{postData.title}</title> 
       </Head>
       <article>
