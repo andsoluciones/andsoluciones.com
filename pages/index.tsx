@@ -18,7 +18,7 @@ export default function Home({
   return (
     <Layout home>
       <Head>
-        <script type="text/javascript" src="/statcounter.js"></script>
+        <script async src="/statcounter.js"/>
         <title>{siteTitle}</title>  
       </Head>
       <section className={utilStyles.headingMd}>
