@@ -22,7 +22,7 @@ export default function Home({
         <title>{siteTitle}</title>  
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Technologist. Sofware Engineer at <a href="https://www.thoughtworks.com">Thougtworks</a></p>
+        <p>Technologist. Sofware Engineer at <a href="https://www.thoughtworks.com">Thoughtworks</a></p>
         <p>
           Hi, my name is Miguel, I'm an experienced software Engineer and SRE Specialist with Agile mindset.{' '}
           I love helping organizations to deliver software solutions with adaptive design.
@@ -31,7 +31,7 @@ export default function Home({
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Contact</h2>
         <p>
-          You can reach me at mh [at] andsoluciones.com
+          You can reach me out at mh [at] andsoluciones.com
         </p>
         <p>
           You can also find me at <a href="https://github.com/mhernandezve">GitHub</a>, <a href="https://www.linkedin.com/in/hernandezmiw/">Linkedin</a> and <a href="https://twitter.com/mhernandezve">Twitter</a>.
