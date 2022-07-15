@@ -22,7 +22,7 @@ export default function Home({
         <title>{siteTitle}</title>  
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Technologist. Sofware Engineer at <a href="https://www.thoughtworks.com">Thoughtworks</a></p>
+        <p>Technologist. DevOps Engineer at <a href="https://www.globant.com">Globant</a></p>
         <p>
           Hi, my name is Miguel, I'm an experienced software Engineer and SRE Specialist with Agile mindset.{' '}
           I love helping organizations to deliver software solutions with adaptive design.
