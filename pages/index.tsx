@@ -24,8 +24,9 @@ export default function Home({
       <section className={utilStyles.headingMd}>
         <p>Technologist. DevOps Engineer at <a href="https://www.globant.com">Globant</a></p>
         <p>
-          Hi, my name is Miguel, I'm an experienced software Engineer and SRE Specialist with Agile mindset.{' '}
-          I love helping organizations to deliver software solutions with adaptive design.
+          Hi, my name is Miguel, I define myself as a technologist and entrepreneur. {' '}
+          I'm an experienced Software/DevOps Engineer with Agile mindset.{' '}
+          I love helping organizations to deliver software solutions with adaptive design. 
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
